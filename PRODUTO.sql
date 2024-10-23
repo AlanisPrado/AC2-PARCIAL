@@ -1,0 +1,1 @@
+SELECT * FROM id_produto.produto;
